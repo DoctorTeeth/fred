@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: fasgd.aux
+The style file: fasgd.bst
+Database file #1: fasgd.bib
+A bad cross reference---entry "Rel"
+refers to entry "DBLP:conf/interspeech/2014", which doesn't exist
+Warning--I didn't find a database entry for "Exponential"
+You've used 15 entries,
+            2773 wiz_defined-function locations,
+            694 strings with 8097 characters,
+and the built_in function-call counts, 8345 in all, are:
+= -- 709
+> -- 645
+< -- 7
++ -- 215
+- -- 200
+* -- 710
+:= -- 1321
+add.period$ -- 56
+call.type$ -- 15
+change.case$ -- 110
+chr.to.int$ -- 15
+cite$ -- 30
+duplicate$ -- 349
+empty$ -- 569
+format.name$ -- 221
+if$ -- 1730
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 15
+newline$ -- 92
+num.names$ -- 62
+pop$ -- 213
+preamble$ -- 1
+purify$ -- 95
+quote$ -- 0
+skip$ -- 296
+stack$ -- 0
+substring$ -- 175
+swap$ -- 51
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 165
+warning$ -- 0
+while$ -- 56
+width$ -- 0
+write$ -- 217
+(There was 1 error message)

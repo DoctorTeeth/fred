@@ -1,0 +1,11 @@
+*.aux
+*.out
+*.swp
+*.swo
+*.pdf
+*.log
+*.pyc
+data/*
+*.pkl
+*.png
+*.jpg
