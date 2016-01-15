@@ -9,3 +9,4 @@ data/*
 *.pkl
 *.png
 *.jpg
+!first_draft.pdf
